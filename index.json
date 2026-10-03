@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "hero": {"type":"rk-hero","settings":{}},
+    "services": {"type":"rk-services","settings":{}},
+    "gallery": {"type":"rk-gallery","settings":{}},
+    "packages": {"type":"rk-packages","settings":{}},
+    "about": {"type":"rk-about","settings":{}},
+    "cta": {"type":"rk-cta","settings":{}}
+  },
+  "order": ["hero","services","gallery","packages","about","cta"]
+}
